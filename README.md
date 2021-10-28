@@ -8,4 +8,4 @@ This is a simple browser that built with Kotlin in Android Studio .
 <br>
 اطلاعات بیشتر :
 <br>
-https://youtu.be/d-vRgLUYorU
+https://youtu.be/v-zWTniqWJU
